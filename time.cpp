@@ -1,5 +1,5 @@
 /* localtime example */
-#include <iostream>     /* puts, printf */
+#include <iostream>     
 #include <time.h>       /* time_t, struct tm, time, localtime */
 
 using namespace std;
